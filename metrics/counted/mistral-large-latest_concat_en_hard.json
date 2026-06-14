@@ -1,0 +1,83 @@
+{
+    "session_2026-05-16_18-54-26": {
+        "RunCounter": 90,
+        "StepsCounter": 883,
+        "UniqueEndings": 0.2,
+        "Fullness": [
+            0.5,
+            0.375,
+            0,
+            0,
+            0,
+            0
+        ],
+        "BadRuns": 0.9333333333333333,
+        "Repeat": 15,
+        "AverageDepth": 0.20982142857142855,
+        "TotalBack": 0.0011325028312570782,
+        "AverageBackLength": 1,
+        "RedundantBacks": 0.0,
+        "Finding50": 4.0,
+        "Finding90": 6.5,
+        "Finding100": 7.0,
+        "Iteration20": null,
+        "Iteration27": null,
+        "Iteration28": null,
+        "Iteration29": null,
+        "Iteration30": null
+    },
+    "session_2026-05-25_16-52-55": {
+        "RunCounter": 90,
+        "StepsCounter": 813,
+        "UniqueEndings": 0.13333333333333333,
+        "Fullness": [
+            0.5,
+            0.125,
+            0,
+            0,
+            0,
+            0
+        ],
+        "BadRuns": 0.9555555555555556,
+        "Repeat": 22.5,
+        "AverageDepth": 0.17410714285714285,
+        "TotalBack": 0.0,
+        "AverageBackLength": null,
+        "RedundantBacks": null,
+        "Finding50": 2.5,
+        "Finding90": 3.7,
+        "Finding100": 4.0,
+        "Iteration20": null,
+        "Iteration27": null,
+        "Iteration28": null,
+        "Iteration29": null,
+        "Iteration30": null
+    },
+    "session_2026-05-28_20-44-19": {
+        "RunCounter": 90,
+        "StepsCounter": 1718,
+        "UniqueEndings": 0.3,
+        "Fullness": [
+            0.5,
+            0.375,
+            0.5,
+            0,
+            0,
+            0
+        ],
+        "BadRuns": 0.9,
+        "Repeat": 10,
+        "AverageDepth": 0.46428571428571425,
+        "TotalBack": 0.01338766006984866,
+        "AverageBackLength": 1.0454545454545454,
+        "RedundantBacks": 0.4090909090909091,
+        "Finding50": 6.0,
+        "Finding90": 89.2,
+        "Finding100": 90.0,
+        "Iteration20": null,
+        "Iteration27": null,
+        "Iteration28": null,
+        "Iteration29": null,
+        "Iteration30": null
+    }
+}

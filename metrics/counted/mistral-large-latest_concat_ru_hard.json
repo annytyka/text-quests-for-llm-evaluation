@@ -1,0 +1,83 @@
+{
+    "session_2026-05-17_21-25-56": {
+        "RunCounter": 90,
+        "StepsCounter": 501,
+        "UniqueEndings": 0.1,
+        "Fullness": [
+            0,
+            0.25,
+            0.16666666666666666,
+            0,
+            0,
+            0
+        ],
+        "BadRuns": 0.9666666666666667,
+        "Repeat": 30,
+        "AverageDepth": 0.6071428571428571,
+        "TotalBack": 0.005988023952095809,
+        "AverageBackLength": 1.5,
+        "RedundantBacks": 0.5,
+        "Finding50": 2.0,
+        "Finding90": 2.8,
+        "Finding100": 3.0,
+        "Iteration20": null,
+        "Iteration27": null,
+        "Iteration28": null,
+        "Iteration29": null,
+        "Iteration30": null
+    },
+    "session_2026-05-26_23-44-12": {
+        "RunCounter": 11,
+        "StepsCounter": 140,
+        "UniqueEndings": 0.16666666666666666,
+        "Fullness": [
+            0,
+            0.5,
+            0.16666666666666666,
+            0,
+            0,
+            0
+        ],
+        "BadRuns": 0.5454545454545454,
+        "Repeat": 2.2,
+        "AverageDepth": 0.4982142857142857,
+        "TotalBack": 0.02857142857142857,
+        "AverageBackLength": 1,
+        "RedundantBacks": 1.0,
+        "Finding50": 3.0,
+        "Finding90": 5.2,
+        "Finding100": 6.0,
+        "Iteration20": null,
+        "Iteration27": null,
+        "Iteration28": null,
+        "Iteration29": null,
+        "Iteration30": null
+    },
+    "session_2026-05-28_20-43-29": {
+        "RunCounter": 90,
+        "StepsCounter": 477,
+        "UniqueEndings": 0.06666666666666667,
+        "Fullness": [
+            0,
+            0.125,
+            0.16666666666666666,
+            0,
+            0,
+            0
+        ],
+        "BadRuns": 0.9777777777777777,
+        "Repeat": 45,
+        "AverageDepth": 0.5625,
+        "TotalBack": 0.0,
+        "AverageBackLength": null,
+        "RedundantBacks": null,
+        "Finding50": 1.5,
+        "Finding90": 1.9,
+        "Finding100": 2.0,
+        "Iteration20": null,
+        "Iteration27": null,
+        "Iteration28": null,
+        "Iteration29": null,
+        "Iteration30": null
+    }
+}

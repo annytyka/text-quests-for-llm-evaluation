@@ -1,0 +1,29 @@
+{
+    "session_2026-05-19_20-59-39": {
+        "RunCounter": 90,
+        "StepsCounter": 1156,
+        "UniqueEndings": 0.6333333333333333,
+        "Fullness": [
+            0.5,
+            0.875,
+            0.16666666666666666,
+            0.75,
+            1,
+            0
+        ],
+        "BadRuns": 0.7888888888888889,
+        "Repeat": 4.7368421052631575,
+        "AverageDepth": 1.0079887218045112,
+        "TotalBack": 0.019896193771626297,
+        "AverageBackLength": 1.3529411764705883,
+        "RedundantBacks": 0.5294117647058824,
+        "Finding50": 10.0,
+        "Finding90": 30.2,
+        "Finding100": 42.0,
+        "Iteration20": null,
+        "Iteration27": null,
+        "Iteration28": null,
+        "Iteration29": null,
+        "Iteration30": null
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "session_2026-05-19_20-21-46": {
+        "RunCounter": 90,
+        "StepsCounter": 1961,
+        "UniqueEndings": 0.8666666666666667,
+        "Fullness": [
+            1,
+            0.75,
+            0.6666666666666666,
+            1,
+            1,
+            1
+        ],
+        "BadRuns": 0.7111111111111111,
+        "Repeat": 3.4615384615384617,
+        "AverageDepth": 1.0281593406593406,
+        "TotalBack": 0.016828148903620603,
+        "AverageBackLength": 1.1,
+        "RedundantBacks": 0.5333333333333333,
+        "Finding50": 14.0,
+        "Finding90": 33.5,
+        "Finding100": 57.0,
+        "Iteration20": 21,
+        "Iteration27": null,
+        "Iteration28": null,
+        "Iteration29": null,
+        "Iteration30": null
+    },
+    "session_2026-05-25_16-40-13": {
+        "RunCounter": 90,
+        "StepsCounter": 1979,
+        "UniqueEndings": 0.8,
+        "Fullness": [
+            0.8333333333333334,
+            0.75,
+            0.5,
+            1,
+            1,
+            1
+        ],
+        "BadRuns": 0.7333333333333334,
+        "Repeat": 3.75,
+        "AverageDepth": 1.0970982142857142,
+        "TotalBack": 0.014653865588681153,
+        "AverageBackLength": 1.0740740740740742,
+        "RedundantBacks": 0.7037037037037037,
+        "Finding50": 13.5,
+        "Finding90": 27.199999999999996,
+        "Finding100": 68.0,
+        "Iteration20": 22,
+        "Iteration27": null,
+        "Iteration28": null,
+        "Iteration29": null,
+        "Iteration30": null
+    },
+    "session_2026-05-26_23-39-17": {
+        "RunCounter": 90,
+        "StepsCounter": 1596,
+        "UniqueEndings": 0.9333333333333333,
+        "Fullness": [
+            1,
+            0.875,
+            0.8333333333333334,
+            1,
+            1,
+            1
+        ],
+        "BadRuns": 0.6888888888888889,
+        "Repeat": 3.2142857142857144,
+        "AverageDepth": 1.010204081632653,
+        "TotalBack": 0.040100250626566414,
+        "AverageBackLength": 1.2549019607843137,
+        "RedundantBacks": 0.5490196078431373,
+        "Finding50": 16.5,
+        "Finding90": 30.6,
+        "Finding100": 87.0,
+        "Iteration20": 23,
+        "Iteration27": 58,
+        "Iteration28": 87,
+        "Iteration29": null,
+        "Iteration30": null
+    }
+}

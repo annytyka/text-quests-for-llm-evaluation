@@ -1,0 +1,182 @@
+{
+    "1": {
+        "checkpoint_num": 0,
+        "checkpoint_text": "Пробуждение (начало)",
+        "depth_from_checkpoint": 2,
+        "depth_from_start": 2
+    },
+    "4": {
+        "checkpoint_num": 0,
+        "checkpoint_text": "Пробуждение (начало)",
+        "depth_from_checkpoint": 5,
+        "depth_from_start": 5
+    },
+    "6": {
+        "checkpoint_num": 0,
+        "checkpoint_text": "Пробуждение (начало)",
+        "depth_from_checkpoint": 5,
+        "depth_from_start": 5
+    },
+    "2": {
+        "checkpoint_num": 0,
+        "checkpoint_text": "Пробуждение (начало)",
+        "depth_from_checkpoint": 5,
+        "depth_from_start": 5
+    },
+    "5": {
+        "checkpoint_num": 0,
+        "checkpoint_text": "Пробуждение (начало)",
+        "depth_from_checkpoint": 6,
+        "depth_from_start": 6
+    },
+    "3": {
+        "checkpoint_num": 0,
+        "checkpoint_text": "Пробуждение (начало)",
+        "depth_from_checkpoint": 6,
+        "depth_from_start": 6
+    },
+    "7": {
+        "checkpoint_num": 1,
+        "checkpoint_text": "Выход на улицу",
+        "depth_from_checkpoint": 1,
+        "depth_from_start": 9
+    },
+    "9": {
+        "checkpoint_num": 1,
+        "checkpoint_text": "Выход на улицу",
+        "depth_from_checkpoint": 4,
+        "depth_from_start": 12
+    },
+    "8": {
+        "checkpoint_num": 1,
+        "checkpoint_text": "Выход на улицу",
+        "depth_from_checkpoint": 5,
+        "depth_from_start": 13
+    },
+    "13": {
+        "checkpoint_num": 1,
+        "checkpoint_text": "Выход на улицу",
+        "depth_from_checkpoint": 6,
+        "depth_from_start": 14
+    },
+    "12": {
+        "checkpoint_num": 1,
+        "checkpoint_text": "Выход на улицу",
+        "depth_from_checkpoint": 6,
+        "depth_from_start": 14
+    },
+    "10": {
+        "checkpoint_num": 1,
+        "checkpoint_text": "Выход на улицу",
+        "depth_from_checkpoint": 7,
+        "depth_from_start": 15
+    },
+    "14": {
+        "checkpoint_num": 1,
+        "checkpoint_text": "Выход на улицу",
+        "depth_from_checkpoint": 8,
+        "depth_from_start": 16
+    },
+    "11": {
+        "checkpoint_num": 1,
+        "checkpoint_text": "Выход на улицу",
+        "depth_from_checkpoint": 12,
+        "depth_from_start": 20
+    },
+    "15": {
+        "checkpoint_num": 2,
+        "checkpoint_text": "Похищение",
+        "depth_from_checkpoint": 9,
+        "depth_from_start": 24
+    },
+    "16": {
+        "checkpoint_num": 2,
+        "checkpoint_text": "Похищение",
+        "depth_from_checkpoint": 14,
+        "depth_from_start": 29
+    },
+    "17": {
+        "checkpoint_num": 2,
+        "checkpoint_text": "Похищение",
+        "depth_from_checkpoint": 22,
+        "depth_from_start": 37
+    },
+    "20": {
+        "checkpoint_num": 2,
+        "checkpoint_text": "Похищение",
+        "depth_from_checkpoint": 28,
+        "depth_from_start": 43
+    },
+    "19": {
+        "checkpoint_num": 2,
+        "checkpoint_text": "Похищение",
+        "depth_from_checkpoint": 29,
+        "depth_from_start": 44
+    },
+    "18": {
+        "checkpoint_num": 2,
+        "checkpoint_text": "Похищение",
+        "depth_from_checkpoint": 29,
+        "depth_from_start": 44
+    },
+    "21": {
+        "checkpoint_num": 3,
+        "checkpoint_text": "Подготовка к операции",
+        "depth_from_checkpoint": 6,
+        "depth_from_start": 52
+    },
+    "22": {
+        "checkpoint_num": 3,
+        "checkpoint_text": "Подготовка к операции",
+        "depth_from_checkpoint": 10,
+        "depth_from_start": 56
+    },
+    "23": {
+        "checkpoint_num": 3,
+        "checkpoint_text": "Подготовка к операции",
+        "depth_from_checkpoint": 11,
+        "depth_from_start": 57
+    },
+    "24": {
+        "checkpoint_num": 3,
+        "checkpoint_text": "Подготовка к операции",
+        "depth_from_checkpoint": 19,
+        "depth_from_start": 65
+    },
+    "25": {
+        "checkpoint_num": 4,
+        "checkpoint_text": "День X",
+        "depth_from_checkpoint": 7,
+        "depth_from_start": 76
+    },
+    "27": {
+        "checkpoint_num": 4,
+        "checkpoint_text": "День X",
+        "depth_from_checkpoint": 13,
+        "depth_from_start": 82
+    },
+    "28": {
+        "checkpoint_num": 4,
+        "checkpoint_text": "День X",
+        "depth_from_checkpoint": 13,
+        "depth_from_start": 82
+    },
+    "26": {
+        "checkpoint_num": 4,
+        "checkpoint_text": "День X",
+        "depth_from_checkpoint": 13,
+        "depth_from_start": 82
+    },
+    "29": {
+        "checkpoint_num": 4,
+        "checkpoint_text": "День X",
+        "depth_from_checkpoint": 24,
+        "depth_from_start": 93
+    },
+    "30": {
+        "checkpoint_num": 5,
+        "checkpoint_text": "После необратимого",
+        "depth_from_checkpoint": 17,
+        "depth_from_start": 112
+    }
+}

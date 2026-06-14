@@ -1,0 +1,56 @@
+{
+    "session_2026-05-26_23-47-21": {
+        "RunCounter": 90,
+        "StepsCounter": 1534,
+        "UniqueEndings": 0.9,
+        "Fullness": [
+            1,
+            1,
+            0.8333333333333334,
+            1,
+            0.8,
+            0
+        ],
+        "BadRuns": 0.7,
+        "Repeat": 3.3333333333333335,
+        "AverageDepth": 0.8839285714285714,
+        "TotalBack": 0.12842242503259452,
+        "AverageBackLength": 1.7280701754385965,
+        "RedundantBacks": 0.631578947368421,
+        "Finding50": 15.0,
+        "Finding90": 44.60000000000001,
+        "Finding100": 66.0,
+        "Iteration20": 29,
+        "Iteration27": 66,
+        "Iteration28": null,
+        "Iteration29": null,
+        "Iteration30": null
+    },
+    "session_2026-05-28_20-40-45": {
+        "RunCounter": 90,
+        "StepsCounter": 1871,
+        "UniqueEndings": 0.9333333333333333,
+        "Fullness": [
+            1,
+            0.875,
+            1,
+            1,
+            1,
+            0
+        ],
+        "BadRuns": 0.6888888888888889,
+        "Repeat": 3.2142857142857144,
+        "AverageDepth": 0.9451530612244897,
+        "TotalBack": 0.12987707108498128,
+        "AverageBackLength": 1.4294117647058824,
+        "RedundantBacks": 0.4588235294117647,
+        "Finding50": 18.0,
+        "Finding90": 45.500000000000014,
+        "Finding100": 58.0,
+        "Iteration20": 31,
+        "Iteration27": 57,
+        "Iteration28": 58,
+        "Iteration29": null,
+        "Iteration30": null
+    }
+}

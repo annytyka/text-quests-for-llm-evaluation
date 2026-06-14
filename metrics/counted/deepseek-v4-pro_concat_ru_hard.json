@@ -1,0 +1,83 @@
+{
+    "session_2026-05-17_15-59-12": {
+        "RunCounter": 39,
+        "StepsCounter": 2855,
+        "UniqueEndings": 0.6,
+        "Fullness": [
+            1,
+            1,
+            0.6666666666666666,
+            0,
+            0,
+            0
+        ],
+        "BadRuns": 0.5384615384615384,
+        "Repeat": 2.1666666666666665,
+        "AverageDepth": 0.40922619047619047,
+        "TotalBack": 0.4185639229422067,
+        "AverageBackLength": 1.978476821192053,
+        "RedundantBacks": 0.8956953642384106,
+        "Finding50": 9.5,
+        "Finding90": 21.3,
+        "Finding100": 23.0,
+        "Iteration20": null,
+        "Iteration27": null,
+        "Iteration28": null,
+        "Iteration29": null,
+        "Iteration30": null
+    },
+    "session_2026-05-20_17-22-36": {
+        "RunCounter": 74,
+        "StepsCounter": 2636,
+        "UniqueEndings": 0.8,
+        "Fullness": [
+            1,
+            0.875,
+            1,
+            1,
+            0.2,
+            0
+        ],
+        "BadRuns": 0.6756756756756757,
+        "Repeat": 3.0833333333333335,
+        "AverageDepth": 0.7243303571428571,
+        "TotalBack": 0.30121396054628224,
+        "AverageBackLength": 1.562992125984252,
+        "RedundantBacks": 0.6515748031496063,
+        "Finding50": 12.5,
+        "Finding90": 26.4,
+        "Finding100": 36.0,
+        "Iteration20": 24,
+        "Iteration27": null,
+        "Iteration28": null,
+        "Iteration29": null,
+        "Iteration30": null
+    },
+    "session_2026-05-28_20-39-05": {
+        "RunCounter": 88,
+        "StepsCounter": 2644,
+        "UniqueEndings": 0.9333333333333333,
+        "Fullness": [
+            1,
+            0.875,
+            1,
+            1,
+            1,
+            0
+        ],
+        "BadRuns": 0.6818181818181819,
+        "Repeat": 3.142857142857143,
+        "AverageDepth": 0.9451530612244897,
+        "TotalBack": 0.193267776096823,
+        "AverageBackLength": 1.4353932584269662,
+        "RedundantBacks": 0.6123595505617978,
+        "Finding50": 16.5,
+        "Finding90": 32.6,
+        "Finding100": 52.0,
+        "Iteration20": 22,
+        "Iteration27": 35,
+        "Iteration28": 52,
+        "Iteration29": null,
+        "Iteration30": null
+    }
+}
